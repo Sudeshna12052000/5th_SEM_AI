@@ -1,5 +1,3 @@
-# Date :  28.1.2019
-
 import random as r
 ai,player='O','X'
 board=[['_','_','_'],['_','_','_'],['_','_','_']]
